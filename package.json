@@ -1,0 +1,22 @@
+{
+  "name": "ai-algorithms-project",
+  "version": "1.0.0",
+  "description": "AI Algorithms and Games - Alpha-Beta Pruning, Hidden Markov Model, Tic-Tac-Toe with AI",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ai",
+    "algorithms",
+    "alpha-beta-pruning",
+    "hmm",
+    "tic-tac-toe",
+    "game-theory"
+  ],
+  "author": "",
+  "license": "ISC"
+}
